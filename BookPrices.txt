@@ -1,0 +1,21 @@
+Engineering Materials (ASTU), 15.75
+Introduction to Environmental Engineering (ASTU), 12.99
+Electronic Devices and Circuits (ASTU), 14.5
+Engineering Graphics and Design (ASTU), 17.25
+Introduction to Biomedical Engineering (ASTU), 13.5
+Instrumentation and Measurement Systems (ASTU), 16.99
+Engineering Project Management (ASTU), 19.25
+Control Systems Design (ASTU), 14.75
+Introduction to Telecommunications Engineering (ASTU), 17.99
+Engineering Optimization (ASTU), 12.25
+Microprocessors and Microcontrollers (ASTU), 15.5
+Engineering Acoustics (ASTU), 18.75
+Introduction to Nuclear Engineering (ASTU), 11.99
+Renewable Energy Systems (ASTU), 14.25
+Engineering Electromagnetics (ASTU), 17.5
+Introduction to Manufacturing Processes (ASTU), 20.25
+Engineering Dynamics (ASTU), 15.75
+Introduction to Transportation Engineering (ASTU), 19.99
+Digital Signal Processing (ASTU), 13.95
+Engineering Reliability (ASTU), 16.5
+Introduction to VLSI Design (ASTU), 19.75
